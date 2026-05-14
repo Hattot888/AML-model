@@ -34,7 +34,7 @@ Build a machine learning system that:
 
 ## 📊 Dataset
 
-We use the **PaySim / IBM AML synthetic transaction dataset**, which contains:
+We use the **PaySi, which contains:
 
 * Transaction types (TRANSFER, CASH_OUT, PAYMENT, etc.)
 * Account information
