@@ -318,19 +318,6 @@ This approach is:
 
 ---
 
-## 👤 Author
-
-**Abdulrahman Hattem Mohammed**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
   <sub>Built as a final project for an advanced Machine Learning course — replacing the traditional exam with a real-world end-to-end ML system.</sub>
